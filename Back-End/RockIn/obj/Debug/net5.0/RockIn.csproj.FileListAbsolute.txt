@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\RockIn\bin\Debug\net5.0\RockIn.exe
+C:\Users\dev\Desktop\RockIn\bin\Debug\net5.0\RockIn.deps.json
+C:\Users\dev\Desktop\RockIn\bin\Debug\net5.0\RockIn.runtimeconfig.json
+C:\Users\dev\Desktop\RockIn\bin\Debug\net5.0\RockIn.runtimeconfig.dev.json
+C:\Users\dev\Desktop\RockIn\bin\Debug\net5.0\RockIn.dll
+C:\Users\dev\Desktop\RockIn\bin\Debug\net5.0\ref\RockIn.dll
+C:\Users\dev\Desktop\RockIn\bin\Debug\net5.0\RockIn.pdb
+C:\Users\dev\Desktop\RockIn\obj\Debug\net5.0\RockIn.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\RockIn\obj\Debug\net5.0\RockIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\RockIn\obj\Debug\net5.0\RockIn.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\RockIn\obj\Debug\net5.0\RockIn.AssemblyInfo.cs
+C:\Users\dev\Desktop\RockIn\obj\Debug\net5.0\RockIn.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\RockIn\obj\Debug\net5.0\RockIn.dll
+C:\Users\dev\Desktop\RockIn\obj\Debug\net5.0\ref\RockIn.dll
+C:\Users\dev\Desktop\RockIn\obj\Debug\net5.0\RockIn.pdb
+C:\Users\dev\Desktop\RockIn\obj\Debug\net5.0\RockIn.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\cliente\Desktop\Estruturas Condicionais\ProgramaSalario\bin\Debug\net5.0\ProgramaSalario.exe
+C:\Users\cliente\Desktop\Estruturas Condicionais\ProgramaSalario\bin\Debug\net5.0\ProgramaSalario.deps.json
+C:\Users\cliente\Desktop\Estruturas Condicionais\ProgramaSalario\bin\Debug\net5.0\ProgramaSalario.runtimeconfig.json
+C:\Users\cliente\Desktop\Estruturas Condicionais\ProgramaSalario\bin\Debug\net5.0\ProgramaSalario.runtimeconfig.dev.json
+C:\Users\cliente\Desktop\Estruturas Condicionais\ProgramaSalario\bin\Debug\net5.0\ProgramaSalario.dll
+C:\Users\cliente\Desktop\Estruturas Condicionais\ProgramaSalario\bin\Debug\net5.0\ref\ProgramaSalario.dll
+C:\Users\cliente\Desktop\Estruturas Condicionais\ProgramaSalario\bin\Debug\net5.0\ProgramaSalario.pdb
+C:\Users\cliente\Desktop\Estruturas Condicionais\ProgramaSalario\obj\Debug\net5.0\ProgramaSalario.csprojAssemblyReference.cache
+C:\Users\cliente\Desktop\Estruturas Condicionais\ProgramaSalario\obj\Debug\net5.0\ProgramaSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Desktop\Estruturas Condicionais\ProgramaSalario\obj\Debug\net5.0\ProgramaSalario.AssemblyInfoInputs.cache
+C:\Users\cliente\Desktop\Estruturas Condicionais\ProgramaSalario\obj\Debug\net5.0\ProgramaSalario.AssemblyInfo.cs
+C:\Users\cliente\Desktop\Estruturas Condicionais\ProgramaSalario\obj\Debug\net5.0\ProgramaSalario.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Estruturas Condicionais\ProgramaSalario\obj\Debug\net5.0\ProgramaSalario.dll
+C:\Users\cliente\Desktop\Estruturas Condicionais\ProgramaSalario\obj\Debug\net5.0\ref\ProgramaSalario.dll
+C:\Users\cliente\Desktop\Estruturas Condicionais\ProgramaSalario\obj\Debug\net5.0\ProgramaSalario.pdb
+C:\Users\cliente\Desktop\Estruturas Condicionais\ProgramaSalario\obj\Debug\net5.0\ProgramaSalario.genruntimeconfig.cache

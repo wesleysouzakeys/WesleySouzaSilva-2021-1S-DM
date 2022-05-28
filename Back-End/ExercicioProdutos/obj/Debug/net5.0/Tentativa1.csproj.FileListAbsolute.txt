@@ -1,0 +1,16 @@
+C:\Users\cliente\Desktop\Tentativa1\bin\Debug\net5.0\Tentativa1.exe
+C:\Users\cliente\Desktop\Tentativa1\bin\Debug\net5.0\Tentativa1.deps.json
+C:\Users\cliente\Desktop\Tentativa1\bin\Debug\net5.0\Tentativa1.runtimeconfig.json
+C:\Users\cliente\Desktop\Tentativa1\bin\Debug\net5.0\Tentativa1.runtimeconfig.dev.json
+C:\Users\cliente\Desktop\Tentativa1\bin\Debug\net5.0\Tentativa1.dll
+C:\Users\cliente\Desktop\Tentativa1\bin\Debug\net5.0\ref\Tentativa1.dll
+C:\Users\cliente\Desktop\Tentativa1\bin\Debug\net5.0\Tentativa1.pdb
+C:\Users\cliente\Desktop\Tentativa1\obj\Debug\net5.0\Tentativa1.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\Tentativa1\obj\Debug\net5.0\Tentativa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Desktop\Tentativa1\obj\Debug\net5.0\Tentativa1.AssemblyInfoInputs.cache
+C:\Users\cliente\Desktop\Tentativa1\obj\Debug\net5.0\Tentativa1.AssemblyInfo.cs
+C:\Users\cliente\Desktop\Tentativa1\obj\Debug\net5.0\Tentativa1.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Tentativa1\obj\Debug\net5.0\Tentativa1.dll
+C:\Users\cliente\Desktop\Tentativa1\obj\Debug\net5.0\ref\Tentativa1.dll
+C:\Users\cliente\Desktop\Tentativa1\obj\Debug\net5.0\Tentativa1.pdb
+C:\Users\cliente\Desktop\Tentativa1\obj\Debug\net5.0\Tentativa1.genruntimeconfig.cache

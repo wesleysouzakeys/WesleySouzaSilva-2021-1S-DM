@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1200px;
+    /* background-color: aqua; */
+    margin: 0 auto;
+}
+
+header{
+    background-color: #F9003D;
+    height: 60px;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+    width: 100%;
+}
+
+.container_header{
+    display: flex;
+    justify-content: flex-end;
+    height: 100%;
+}
+
+.menu_header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: bisque; */
+    width: 590px;
+}
+
+.menu_header a{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+}
+
+main{
+    margin-top: 60px;
+}
+
+.container_banner{
+    position: relative;
+    height: 780px;
+}
+
+.fundo_banner{
+    width: 100%;
+}
+
+.box_conteudo{
+    position: absolute;
+    top: 226px;
+    left: 120px;
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    font-size: 96px;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    text-transform: uppercase;
+    width: 545px;
+    /* background-color: aqua; */
+    font-weight: 500;
+}
+
+.hr_banner{
+    color: #ffaf00
+
+}
+
+.box_conteudo span{
+    color:#F9003D;
+    font-size: 53px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    margin: 20px 0;
+}
+
+.icone_mouse{
+    width: 37px;
+}
+
+.container_sobre{
+    background-color: #080324;
+    color: white;
+    height: 800px;
+}
+
+.espacamento_sobre{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 100%;
+}
+
+.h2_sobre{
+    text-transform: uppercase;
+    color: #f9003d;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 64px;
+}
+
+.box_sobre{
+    display: flex;
+    justify-content: space-between;
+}
+
+.box_sobre_textos{
+
+}
+
+.box_sobre_textos span{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.h3_sobre{
+    color: #ffaf00;
+    font-size: 64px;
+    font-family: 'Bebas Neue', cursive;
+    width: 557px;
+    font-weight: 500;
+    margin: 10px 0;
+}
+
+.box_sobre_textos p{
+    font-family: 'Open Sans', sans-serif;
+    width: 592px;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.info{
+    background-image: url(../assets_/imagem-fundo-info.png);
+}
+
+.container_info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 193px;
+}
+
+.info h2{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+
+.box_span{
+    border: 1px solid #a259f7;
+    height: 100px;
+    width: 289px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box_span span{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    font-size: 28px;
+    text-transform: uppercase;
+    color: #a259f7;
+}
+
+.endereco{
+    background-image: url(../assets_/imagem-fundo-endereco.png);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 515px;
+    position: relative;
+}
+
+.endereco h2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 64px;
+    text-transform: uppercase;
+    color: #ffaf00;
+    font-weight: 500;
+    width: 899px;
+    margin-bottom: 10px;
+}
+
+.box_endereco{
+    width: 899px;
+    height: 203px;
+    background-color: #010010;
+    border: 2px solid #340B65;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.box_endereco p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #a259f7;
+    width: 435px;
+    margin-left: 66px;
+}
+
+.endereco img{
+    position: absolute;
+    top: 120px;
+    right: 350px;
+}
+
+footer{
+    background-color: #F9003D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 82px;
+}
+
+footer span{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    color: white;
+}

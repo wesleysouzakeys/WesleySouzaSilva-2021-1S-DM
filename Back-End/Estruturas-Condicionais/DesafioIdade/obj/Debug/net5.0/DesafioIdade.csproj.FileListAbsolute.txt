@@ -1,0 +1,16 @@
+C:\Users\cliente\Desktop\Estruturas Condicionais\DesafioIdade\bin\Debug\net5.0\DesafioIdade.exe
+C:\Users\cliente\Desktop\Estruturas Condicionais\DesafioIdade\bin\Debug\net5.0\DesafioIdade.deps.json
+C:\Users\cliente\Desktop\Estruturas Condicionais\DesafioIdade\bin\Debug\net5.0\DesafioIdade.runtimeconfig.json
+C:\Users\cliente\Desktop\Estruturas Condicionais\DesafioIdade\bin\Debug\net5.0\DesafioIdade.runtimeconfig.dev.json
+C:\Users\cliente\Desktop\Estruturas Condicionais\DesafioIdade\bin\Debug\net5.0\DesafioIdade.dll
+C:\Users\cliente\Desktop\Estruturas Condicionais\DesafioIdade\bin\Debug\net5.0\ref\DesafioIdade.dll
+C:\Users\cliente\Desktop\Estruturas Condicionais\DesafioIdade\bin\Debug\net5.0\DesafioIdade.pdb
+C:\Users\cliente\Desktop\Estruturas Condicionais\DesafioIdade\obj\Debug\net5.0\DesafioIdade.csprojAssemblyReference.cache
+C:\Users\cliente\Desktop\Estruturas Condicionais\DesafioIdade\obj\Debug\net5.0\DesafioIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Desktop\Estruturas Condicionais\DesafioIdade\obj\Debug\net5.0\DesafioIdade.AssemblyInfoInputs.cache
+C:\Users\cliente\Desktop\Estruturas Condicionais\DesafioIdade\obj\Debug\net5.0\DesafioIdade.AssemblyInfo.cs
+C:\Users\cliente\Desktop\Estruturas Condicionais\DesafioIdade\obj\Debug\net5.0\DesafioIdade.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Estruturas Condicionais\DesafioIdade\obj\Debug\net5.0\DesafioIdade.dll
+C:\Users\cliente\Desktop\Estruturas Condicionais\DesafioIdade\obj\Debug\net5.0\ref\DesafioIdade.dll
+C:\Users\cliente\Desktop\Estruturas Condicionais\DesafioIdade\obj\Debug\net5.0\DesafioIdade.pdb
+C:\Users\cliente\Desktop\Estruturas Condicionais\DesafioIdade\obj\Debug\net5.0\DesafioIdade.genruntimeconfig.cache

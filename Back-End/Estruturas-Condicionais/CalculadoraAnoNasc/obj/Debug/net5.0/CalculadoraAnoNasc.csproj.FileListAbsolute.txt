@@ -1,0 +1,16 @@
+C:\Users\cliente\Desktop\Estruturas Condicionais\CalculadoraAnoNasc\bin\Debug\net5.0\CalculadoraAnoNasc.exe
+C:\Users\cliente\Desktop\Estruturas Condicionais\CalculadoraAnoNasc\bin\Debug\net5.0\CalculadoraAnoNasc.deps.json
+C:\Users\cliente\Desktop\Estruturas Condicionais\CalculadoraAnoNasc\bin\Debug\net5.0\CalculadoraAnoNasc.runtimeconfig.json
+C:\Users\cliente\Desktop\Estruturas Condicionais\CalculadoraAnoNasc\bin\Debug\net5.0\CalculadoraAnoNasc.runtimeconfig.dev.json
+C:\Users\cliente\Desktop\Estruturas Condicionais\CalculadoraAnoNasc\bin\Debug\net5.0\CalculadoraAnoNasc.dll
+C:\Users\cliente\Desktop\Estruturas Condicionais\CalculadoraAnoNasc\bin\Debug\net5.0\ref\CalculadoraAnoNasc.dll
+C:\Users\cliente\Desktop\Estruturas Condicionais\CalculadoraAnoNasc\bin\Debug\net5.0\CalculadoraAnoNasc.pdb
+C:\Users\cliente\Desktop\Estruturas Condicionais\CalculadoraAnoNasc\obj\Debug\net5.0\CalculadoraAnoNasc.csprojAssemblyReference.cache
+C:\Users\cliente\Desktop\Estruturas Condicionais\CalculadoraAnoNasc\obj\Debug\net5.0\CalculadoraAnoNasc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Desktop\Estruturas Condicionais\CalculadoraAnoNasc\obj\Debug\net5.0\CalculadoraAnoNasc.AssemblyInfoInputs.cache
+C:\Users\cliente\Desktop\Estruturas Condicionais\CalculadoraAnoNasc\obj\Debug\net5.0\CalculadoraAnoNasc.AssemblyInfo.cs
+C:\Users\cliente\Desktop\Estruturas Condicionais\CalculadoraAnoNasc\obj\Debug\net5.0\CalculadoraAnoNasc.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Estruturas Condicionais\CalculadoraAnoNasc\obj\Debug\net5.0\CalculadoraAnoNasc.dll
+C:\Users\cliente\Desktop\Estruturas Condicionais\CalculadoraAnoNasc\obj\Debug\net5.0\ref\CalculadoraAnoNasc.dll
+C:\Users\cliente\Desktop\Estruturas Condicionais\CalculadoraAnoNasc\obj\Debug\net5.0\CalculadoraAnoNasc.pdb
+C:\Users\cliente\Desktop\Estruturas Condicionais\CalculadoraAnoNasc\obj\Debug\net5.0\CalculadoraAnoNasc.genruntimeconfig.cache

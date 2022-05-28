@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Titillium+Web:wght@700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+/* HEADER */
+
+.container_header {
+    /* background-color: greenyellow; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header {
+    background-color: #1e1c21;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.logo-header {
+    /* background-color: red; */
+    width: 282px;
+    height: 30px;
+}
+
+.nav-header {
+    /* background-color: royalblue; */
+    width: 658px;
+    height: 23px; 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.links-nav {
+    text-decoration: none;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+/* HEADER */
+
+/* ------------------------------- */
+
+/* MAIN */
+
+.banner {
+    background: linear-gradient(89.98deg, #C31616 38.86%, #000000 66.91%);
+    height: 605px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.inscreva-se {
+    width: 494px;
+    height: 272px;
+    /* background-color: violet; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+
+.liga_e-players {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: bold;
+    color: white;
+    /* background-color: blue; */
+}
+
+.o-maior {
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    color: white;
+    /* background-color: red; */
+}
+
+.botao {
+    background-color: #C31616;
+    width: 257px;
+    height: 63px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    margin-top: 209px;
+}
+
+.font-botao {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.games {
+    background-color: black;
+    height: 121px;
+    display: flex;
+    align-items: center;
+}
+
+.logo-games {
+    /* background-color: white; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.about {
+    background: linear-gradient(0deg, rgba(0, 31, 112, 0.7), rgba(0, 31, 112, 0.7)), url(assets/bg-lol.jpg) center;
+    height: 488px;
+    display: flex;
+    align-items: center;
+}
+
+.container-about {
+    /* background: wheat; */
+    display: flex;
+    transform: skewY(2deg);
+    justify-content: space-between;
+    height: 459px;
+    align-items: center;
+}
+
+.container-about img {
+    height: 459px;
+}
+
+.retangulo-preto {
+    position: relative;
+    height: 430px;
+    width: 100%;
+    background-color: black;
+    transform: skewY(-2deg);
+}
+
+.text-about {
+    /* background: chocolate; */
+    width: 524px;
+    height: 351px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+
+.text-about h1 {
+    font-weight: 900;
+    font-family: 'Roboto';
+    color: white;
+    font-size: 35px;
+}
+
+.text-about p {
+    font-family: 'Roboto';
+    font-size: 18px;
+    color: white;
+    font-weight: 400;
+}
+
+.embreve {
+    height: 120px;
+    background-color: black;
+}
+
+/* MAIN */
